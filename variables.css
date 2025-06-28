@@ -1,8 +1,8 @@
 :root {
     --img-width: 150px;
-    --block: 15px;
-    --inline: 12px;
-    --margin-bottom: 6px;
+    --block: 24px;
+    --inline: 16px;
+    --margin-bottom: 4px;
     --border-radius: 0.2em;
     --clr-black: #000;
     --clr-white: #fff;
