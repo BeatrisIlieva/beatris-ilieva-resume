@@ -1,12 +1,16 @@
 :root {
-    --img-width: 150px;
-    --block: 24px;
-    --inline: 16px;
-    --margin-bottom: 4px;
-    --border-radius: 0.2em;
+    --img-width: 100px;
+    --block: 26px;
+    --inline: 14px;
+    --space-bottom: 8px;
+    --padding-block: 10px;
+    --padding-inline: 14px;
+    --border-radius: 3px;
     --clr-black: #000;
     --clr-white: #fff;
     --clr-gray: #ebebeb;
     --clr-dark-grey: #6b6b6bb0;
     --clr-green: #00674f;
+    --clr-light-green: #00674fd3;
+    --clr-gold: #fcca56;
 }
